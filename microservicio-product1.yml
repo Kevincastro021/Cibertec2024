@@ -1,0 +1,4 @@
+server:
+port: 8084
+
+mensaje: "Hola este es el michoservicio de procuctos"
